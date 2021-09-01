@@ -31,7 +31,7 @@
     "expo-font": "~8.1.0",
     "expo-linking": "^1.0.1",
     "expo-web-browser": "~8.2.0",
-    "react-native-safe-area-context": "0.7.3"
+    "react-native-safe-area-context": "3.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
